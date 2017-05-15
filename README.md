@@ -3,9 +3,15 @@
 
 Adds duplicate cmd `alt+d` and fast deploy cmd `alt+f`
 
-\!\[feature X\]\(images/feature-x.png\)
+### Duplicate (`alt+d`)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+![demo](demo1.gif)
+
+### Fast Deploy (`alt+f`)
+
+![demo](demo2.gif)
+
+![demo](demo3.gif)
 
 ## Known Issues
 

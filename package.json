@@ -1,7 +1,7 @@
 {
-    "name": "duplicate",
-    "displayName": "duplicate",
-    "description": "Simple extension for duplicating code inline",
+    "name": "Extra Commands",
+    "displayName": "Extra Commands",
+    "description": "Simple extension for duplicating code inline and fast deploy",
     "version": "0.0.1",
     "publisher": "alqiu",
     "engines": {
