@@ -3,6 +3,7 @@
     "displayName": "Extra Commands",
     "description": "Simple extension for duplicating code inline and fast deploy",
     "version": "0.0.1",
+    "icon": "https://github.com/Lixire/vscode-cmd-extension/blob/master/logo.svg",
     "publisher": "alqiu",
     "engines": {
         "vscode": "^1.12.0"
@@ -15,6 +16,14 @@
         "onCommand:extension.doFastDeploy"
     ],
     "main": "./out/src/extension",
+    "bugs": {
+        "url": "https://github.com/Lixire/vscode-cmd-extension"
+     },
+    "homepage": "https://github.com/Lixire/vscode-cmd-extension",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Lixire/vscode-cmd-extension"
+    },
     "contributes": {
         "commands": [{
             "command": "extension.doDuplicate",
